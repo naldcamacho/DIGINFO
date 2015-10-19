@@ -1,0 +1,33 @@
+M
+BOS/e           DIGITAL INFOSTRUCTURE SYSTEMS AND CONSULTING CORP     Page No. 1     
+8/28/2015                      BANK NOTICE REPORT
+8:04:05 AM                  SUBCOMPANY CODE : SCONFI
+                   ATTENDANCE CUT-OFF : 8/11/2015 TO 8/25/2015
+                    PAYROLL PERIOD :  8/16/2015 TO 8/31/2015
+ 
+FILENAME: PY2015_AUG31     DESCRIPTION: PAYROLL FOR AUGUST 16 TO 31, 2015.
+ 
+BOC- SAVINGS ACCOUNT (SA)- ACCOUNT NUMBER (900200067747)
+===================================================================================
+PERSONNELIDNO       PERSONNELNAME                 ACCT NO.                   NETPAY
+===================================================================================
+050508              DUENAS,EDUARDO N.             900200072457             8,433.90
+120102              LAGUMBAY,LEONELL A.           1201272012              13,133.51
+140801              PEÑAFLOR,GRACE V.             9002357                  8,443.28
+940825              CASIMIRO,EDEN P.              900200072341            14,834.73
+960650              CAMACHO,RONALD .              900200072325            11,146.65
+ 
+TOTAL(S) FOR SAVINGS ACCOUNT            5                                 55,992.07
+                    POSO, NILO                                            42,071.01
+ 
+OVERALL TOTAL(S):                       6                                 98,063.08
+ 
+ 
+ 
+ 
+  PREPARED BY :                     APPROVED BY :                     NOTED BY :                    
+ 
+ 
+ 
+                                                                                                    
+                                                                                                    
